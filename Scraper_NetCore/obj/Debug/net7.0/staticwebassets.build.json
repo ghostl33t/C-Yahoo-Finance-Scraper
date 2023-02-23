@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1bbqpwhGxtNfkIZqoQPMh1LUTN4BMUgpU2EE0f1ByeQ=",
+  "Source": "Scraper_NetCore",
+  "BasePath": "_content/Scraper_NetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
